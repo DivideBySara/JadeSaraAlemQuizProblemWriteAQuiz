@@ -16,6 +16,8 @@ using static System.Console;
  * 4) Then show each quiz question, prompting the user for answers.
  * 5) Score the quiz.
  * 
+ * TODO: Add validation
+ * 
  */ 
 
 namespace JadeSaraAlemQuizProblemWriteAQuiz
