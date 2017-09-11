@@ -1,6 +1,6 @@
 # JadeSaraAlemQuizProblemWriteAQuiz
 Write a quiz!
 
-This program was an answer to a problem given to me by Alumnah Asefa.  
+This program was an answer to a problem given to me by Alemneh Asefa.  
 The solution currently uses a dynamically populated Dictionary<string, int>.  
 See the comments in Program.cs for details.
