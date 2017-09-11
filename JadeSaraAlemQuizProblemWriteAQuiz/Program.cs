@@ -7,7 +7,7 @@ using static System.Console;
  * Sara Jade
  * 9/11/17
  * 
- * Alemneh Asefa gave me this problem to solve:
+ * Alemneh Asefa (https://www.linkedin.com/in/alemneh/) gave me this problem to solve:
  * 
  * Write a program that allows the user to create a simple quiz.
  * 1) Prompt the user for a name for the quiz and how many questions should be on it.
@@ -18,7 +18,7 @@ using static System.Console;
  * 
  * TODO: Add validation
  * 
- */ 
+ */
 
 namespace JadeSaraAlemQuizProblemWriteAQuiz
 {
